@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CsharpEx5/1.0.0": {
+        "runtime": {
+          "CsharpEx5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsharpEx5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
